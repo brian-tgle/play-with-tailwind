@@ -1,6 +1,6 @@
 const Widget: React.FC = () => {
   return (
-    <div className="w-3/12 bg-white pt-4 px-4">
+    <div className="w-3/12 bg-white pt-4 px-4 shadow-md">
       <div className="text-2xl font-bold">Suggested</div>
       <div className="grid grid-cols-1">
         <div className="relative z-10 col-start-1 row-start-1 px-4 pt-40 pb-3 bg-gradient-to-t from-black sm:bg-none">

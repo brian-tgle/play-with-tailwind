@@ -1,7 +1,7 @@
 import EventImg from '../assets/images/event.png';
 const Sidebar: React.FC = () => {
   return (
-    <div className="w-3/12 bg-white pt-4 px-4">
+    <div className="w-3/12 bg-white pt-4 px-4 shadow-md">
       <div className="flex justify-between">
         <div className="text-2xl font-bold">Home</div>
         <div className="text-blue-500">Created</div>
